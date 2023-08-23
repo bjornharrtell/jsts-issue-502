@@ -1,0 +1,10 @@
+{
+  "name": "jsts-issue-502",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "jsts": "^2.10.0"
+  }
+}
